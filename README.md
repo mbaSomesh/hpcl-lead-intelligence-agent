@@ -361,6 +361,7 @@ This project satisfies all Productathon requirements:
 Link to app:
 https://mbasomesh-hpcl-lead-intelligence-agent-app-frkbxm.streamlit.app/
 
+link to video link for explanation: https://drive.google.com/drive/folders/1NwipFXavbDrQOQlEIs6VXOAuzpYZQBBs?usp=drive_link
 
 HPCL Productathon Submission Prototype
 
